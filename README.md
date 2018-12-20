@@ -1,2 +1,3 @@
 # AndroidTestToken
 用Android Studio连接github，测试Token
+574a64135998d00c38e5faa550406d1445eb26fa
